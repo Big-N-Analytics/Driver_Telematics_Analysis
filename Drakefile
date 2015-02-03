@@ -4,5 +4,5 @@
 
 
 ; unzip file
-drivers.csv <- drivers.zip
-  unzip INPUT0
+data/drivers.csv <- data/drivers.zip
+  unzip $INPUT0
